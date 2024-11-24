@@ -6,10 +6,10 @@
   --border: 1px solid  rgb(0 0 0 / 0.1);
 
 h1 {
-  background-color: var(--heading-background-color);
-  color: var(--heading-text-color);
-  font-family: var(--heading-font);
-  padding: var(--padding);
+  background-color: var(--#FFFFFF);
+  color: var(--#7FA9C7);
+  font-family: var(--#837099);
+  padding: var(--#445552c);
 }
 
 aside {
