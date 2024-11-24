@@ -1,1 +1,40 @@
+:root {
+    --primary-color: #FFFFFF;
+    --secondary-color: #7FA9C7;
+    --accent1-color: #837099;
+    --accent2-color: #445552c;
 
+    --heading-font: 'roboto_slab', serif;
+    --paragraph-font: 'montserrat', serif;
+
+    --nav-background-color: #FFFFFF;
+    --nav-link-color: #7fA9C7;
+    --nav-hover-link-color: #837099;
+    --nav-hover-background-color: #445552;
+
+.hero img {
+	display: block;
+  width: 100%;
+  height: auto;
+}
+
+.heading1 {
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+article {
+    background-color: rgba(255, 255, 255, .35);
+    position: absolute;
+    top: 20rem;
+    right: 6re;
+    color:#FFFFFF;
+
+  article img{
+    float: right;
+    margin: 3rem;
+    width: 15rem;
+}
