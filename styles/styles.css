@@ -15,17 +15,17 @@ h1 {
 aside {
   margin: 10px auto;
   padding: var(--padding);
-  box-shadow: 0 0 10px rgb(0 0 0 / 0.1);
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
 }
 
 main {
-  main-width: 840px;
+  max-width: 840px;
 }
 
 aside {
-  witdth: 20rem;
+  width: 20rem;
   margin: 1rem;
-  border: 1px solig rgb(0 0 0 / 0.2);
+  border: 1px solid rgb(0, 0, 0, 0.2);
   padding: 1rem;
   background-color: #eee;
   color: #333;
