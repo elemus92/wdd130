@@ -16,7 +16,7 @@
    display: block;
    width: 100%;
    height: auto;
-   position: right;
+   position: relative;
 }
 
 .heading1 {
