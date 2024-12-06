@@ -36,9 +36,34 @@ small embedded google map
      <figcaption>Coworkers</figcaption>
      </section>
        An HTML form that asks for the following:
-the user's name
-the user's email address
-the purpose of the message, which allows the user to pick from the options listed below.
+       <form>
+  <fieldset>
+    <legend>Contact Information</legend>
+<div class="form-item">      
+    <label for="useremail">Email:</label>
+    <input type="email" id="useremail" name="useremail">
+   <div/> 
+     <div class="form-item column 2">
+     <label for="Message Purpose">Full Name:</label>
+    <input type="text" id="messagepurpose" name="fullname">
+  <div/>
+  </fieldset>
+  <fieldset>
+   <legend>Questions</legend>
+     <label for="browser">What is the purpose of the message?</label>
+   <select id="browser" name="browser">
+    <option value="sign_up">Chrome</option>
+    <option value="get_information">Firefox</option>
+    <option value="safari">Safari</option>
+    <option value="edge">Edge</option>the user's email address
+      </select>
+   <label for="pet">Do you have a household pet?</label>
+   <input type="checkbox" id="pet" name="pet">
+   <label for="feedback">List the places you have lived:</label>
+   <textarea id="feedback" name="feedback" rows="4" placeholder="Stillwater Florida, Amsterdam Netherlands, Tibuktu Mali"></textarea>
+  </fieldset>
+ </form>
+<button type="submit">Submit Poll</button>the purpose of the message, which allows the user to pick from the options listed below.
 Use radio <input type="radio"> buttons for this form input requirement.
 General Inquiry
 Reservation Question
