@@ -42,10 +42,10 @@ body {
 }
 
 header {
-	display: grid;
-	grid-template-columns: 200px auto;
-	align-items: center;
-    background-color: #445552;
+   display: grid;
+   grid-template-columns: 200px auto;
+   align-items: center;
+   background-color: #445552;
 }
 
 header, main, footer {
@@ -58,7 +58,7 @@ main {
 }
 
 .hero>img {
-	display: block;
+    display: block;
     width: 100%;
 }
 
@@ -112,6 +112,12 @@ history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
     padding: 1em 0;
+}
+
+happy_people {
+   justify-content: space-around;
+   width: 100%;
+   display: block;
 }
 
 img {
