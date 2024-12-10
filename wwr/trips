@@ -19,34 +19,52 @@
     </nav>
  </header>    
 <main>
-  <div class="hero">
-    <img src="images/hero.jpg" alt="hero">
-    <h1 class="heading1">Rafting Company</h1>
-    <article class="article">
-     <img src="images/happy_people.jpg" alt="happy_people">
-     <p> The purpsoe of our company is to provide safe and fun rafting experinece. Our motto is Rad times on the raft. Our mission is to provide the right tools to our customers to have a good and safe time in the river.</p>
+  <div class="Packages">
+     <p> Our company is here to provide asafe and fun rafting experinece. We provide the right tools to our customers to have a good and safe time in the river. We aso offer a variety of packages and location to better suit your needs. Shown below are some of the packages that we offer on our trips. Choose the one that best fits your budget and your needs.</p>
     </article>
   </div>
-  <section class="history">
-    <h2>History</h2>
-    <p> We started out in 1990 as I small company helping out people with no rafitng experince and have slowy progressed to who we are now. We will continue to work towards providing the best rafting experience to our customers.</p>
-  </section>
-  <section class="adventures">
-    <h2>Adventure Awaits You!</h2>
+ 
+  <section class="Trips">
+    <h2>Choose the trip that best suits you!</h2>
     <figure>
     <img src="images/rafting1.jpg" alt="Colorado river">
     <figcaption>Colorado river</figcaption>
+    <p>5 people for $100</p>
     </figure>
     <figure>
     <img src="images/rafting2.jpg" alt="Big bear rapids">
     <figcaption>Big bear rapids</figcaption>
+    <p>8 people for $160</p>   
     </figure>
     <figure>
     <img src="images/rafting3.jpg" alt="Peaceful rapids">
     <figcaption>Peaceful rapids</figcaption>
+    <p> 6 people for $140</p>
     </figure>
     <figure>
     <img src="images/rafting4.jpg" alt="Smokey river">
     <figcaption>Smokey river</figcaption>
-    </figure>
+    <p>5 people for $100</p>
+  </figure>
     <figure>
+<img src="images/rafting5.jpg" alt="Sunshine river">
+     <figcaption>Sunshine river</figcaption>
+  <p>5 people for $100</p>
+</figure>
+  </section>
+</main>
+
+<footer> 
+  <p>©2024 Rafting Company Name Eleny Lemus</p>
+  <nav class="sociallinks">
+    <a href="https://facebook.com">
+      <img src="images//facebook.svg" alt="Facebook">
+    </a>
+    <a href="https://twitter.com">
+      <img src="images//twitter.svg" alt="Twitter">
+    </a>
+    <a href="https://instagram.com">
+      <img src="images//instagram.svg" alt="Instagram">
+    </a>
+  </nav>
+</footer>  
