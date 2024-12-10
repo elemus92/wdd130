@@ -17,3 +17,36 @@
      <a href="trips.html">Trips</a>
      <a hfef="contacts.html">Contact Us</a>
     </nav>
+ </header>    
+<main>
+  <div class="hero">
+    <img src="images/hero.jpg" alt="hero">
+    <h1 class="heading1">Rafting Company</h1>
+    <article class="article">
+     <img src="images/happy_people.jpg" alt="happy_people">
+     <p> The purpsoe of our company is to provide safe and fun rafting experinece. Our motto is Rad times on the raft. Our mission is to provide the right tools to our customers to have a good and safe time in the river.</p>
+    </article>
+  </div>
+  <section class="history">
+    <h2>History</h2>
+    <p> We started out in 1990 as I small company helping out people with no rafitng experince and have slowy progressed to who we are now. We will continue to work towards providing the best rafting experience to our customers.</p>
+  </section>
+  <section class="adventures">
+    <h2>Adventure Awaits You!</h2>
+    <figure>
+    <img src="images/rafting1.jpg" alt="Colorado river">
+    <figcaption>Colorado river</figcaption>
+    </figure>
+    <figure>
+    <img src="images/rafting2.jpg" alt="Big bear rapids">
+    <figcaption>Big bear rapids</figcaption>
+    </figure>
+    <figure>
+    <img src="images/rafting3.jpg" alt="Peaceful rapids">
+    <figcaption>Peaceful rapids</figcaption>
+    </figure>
+    <figure>
+    <img src="images/rafting4.jpg" alt="Smokey river">
+    <figcaption>Smokey river</figcaption>
+    </figure>
+    <figure>
