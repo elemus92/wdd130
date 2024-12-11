@@ -108,13 +108,14 @@ article p{
     justify-items: center
 }
 
-.trips {
+.colorado {
     background-color: lightgrey;
-    width: 300px;
+    width: 500px;
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
-    img: 100px float right;
+    img: 100px;
+    float: right;
 }
     
     
