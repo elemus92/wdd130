@@ -108,7 +108,17 @@ article p{
     justify-items: center
 }
 
-/*history, h2, adventures {
+.trips {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    img: 100px float right;
+}
+    
+    
+    /*history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
     padding: 1em 0;
@@ -147,8 +157,3 @@ footer {
     color:#FFFFFF
 }
 
-.trips {
-    grid-row: 1 / -1;
-    justify-self: center;
-    padding: 1em 0;
-}
