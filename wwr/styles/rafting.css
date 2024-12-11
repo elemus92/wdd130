@@ -108,7 +108,7 @@ article p{
     justify-items: center
 }
 
-.trips {
+.trips, bigbear, peaceful, smokey, sunshine {
     background-color: lightgrey;
     width: 900px;
     border: 15px solid green;
@@ -157,3 +157,15 @@ footer {
     color:#FFFFFF
 }
 
+/* Create three equal columns that float next to each other 
+.column {
+  float: left;
+  width: 33.33%;
+}*/
+
+/* Clear floats after the columns 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}*/
