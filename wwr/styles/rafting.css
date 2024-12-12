@@ -121,7 +121,11 @@ article p{
 trips img {
     float: right;
 }
-        
+
+trips p {
+    text-align: right;
+}
+
 history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
