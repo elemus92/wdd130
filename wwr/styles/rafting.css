@@ -144,9 +144,25 @@ happy_employees{
    display: block;
 }
 
-img {
+newsletter {
+    background-color: lightgrey;
+    width: 500px;
+    height: 100px
+    border: 25px solid green;
+    padding: 25px;
+    margin: 15px;
     width: 150%;
-    justify-content: space-evenly;
+}
+
+prices {
+    background-color: lightgrey;
+    width: 500px;
+    height: 100px
+    border: 25px solid green;
+    padding: 25px;
+    margin: 15px;
+    width: 150%;
+    float: right;
 }
 
 figcaption {
