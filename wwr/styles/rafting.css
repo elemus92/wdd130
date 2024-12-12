@@ -108,7 +108,7 @@ article p{
     justify-items: center
 }
 
-.trips {
+/*.trips {
     background-color: white;
     width: 900px;
     height: 100px
@@ -116,6 +116,18 @@ article p{
     padding: 25px;
     margin: 15px;
     float: center;
+}*/
+
+.trips {
+  background-color: lightgray;
+  width: auto;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.span {
+  display: block;
 }
 
 trips img {
