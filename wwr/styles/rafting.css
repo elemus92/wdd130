@@ -109,7 +109,7 @@ article p{
 }
 
 .trips {
-    background-color: lightgrey;
+    background-color: white;
     width: 900px;
     height: 100px
     border: 25px solid green;
@@ -124,9 +124,9 @@ trips img {
 
 colorado {
     background-color: lightgrey;
-    width: 900px;
+    width: 800px;
     height: 100px
-    border: 25px solid green;
+    border: 40px solid green;
     padding: 25px;
     margin: 15px;
     text-align: right;
