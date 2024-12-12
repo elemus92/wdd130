@@ -124,8 +124,8 @@ trips img {
 
 colorado {
     background-color: lightgrey;
-    width: 800px;
-    height: 100px
+    width: 400px;
+    height: 80px
     border: 40px solid green;
     padding: 25px;
     margin: 15px;
@@ -193,7 +193,7 @@ footer {
 
 footer img {
     justify-content: space-between;
-    align-items: left;
+    align-items: flex-start;
 }
 
 /* Create three equal columns that float next to each other 
