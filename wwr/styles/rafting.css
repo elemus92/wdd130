@@ -158,6 +158,11 @@ footer {
     color:#FFFFFF
 }
 
+footer img {
+    justify-content: space-between;
+    align-items: left;
+}
+
 /* Create three equal columns that float next to each other 
 .column {
   float: left;
