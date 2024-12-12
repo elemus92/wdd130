@@ -122,10 +122,16 @@ trips img {
     float: right;
 }
 
-trips p {
+colorado {
+    background-color: lightgrey;
+    width: 900px;
+    height: 100px
+    border: 25px solid green;
+    padding: 25px;
+    margin: 15px;
     text-align: right;
 }
-
+    
 history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
