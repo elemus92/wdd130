@@ -189,9 +189,6 @@ footer {
 
 footer img {
     justify-content: space-between;
-    align-items: flex-start;
-    width: 20%;
-    height: 20%;
 }
 
 /* Create three equal columns that float next to each other 
