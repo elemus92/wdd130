@@ -131,18 +131,21 @@ history, h2, adventures {
   float: left;
   width: 100%;
   padding: 15px;
+  height: auto;  
 }
 
 .prices {
   float: left;
   width: 60%;
   padding: 20px;
+  height: auto;  
 }
 
 .random {
   float: right;
   width: 40%;
   padding: 25px;
+  height: auto;  
 }
 
 
@@ -169,6 +172,7 @@ history, h2, adventures {
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
+    height: auto;  
 
 .sociallinks {
     display: flex;
