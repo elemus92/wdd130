@@ -149,11 +149,11 @@ history, h2, adventures {
 }
 
 
-/*figcaption {
+figcaption {
     text-align: center;
     padding: 1em 0;
-}*/
-
+}
+/*contact css*/
 .column {
   float: left;
   width: 33.33%;
