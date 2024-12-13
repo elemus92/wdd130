@@ -134,15 +134,6 @@ trips img {
     float: right;
 }
 
-colorado {
-    background-color: lightgrey;
-    width: 400px;
-    height: 80px
-    border: 40px solid green;
-    padding: 25px;
-    margin: 15px;
-    text-align: right;
-}
 
 locations {
     justify-content: center;
@@ -160,31 +151,29 @@ happy_employees {
    display: block;
 }
 
-newsletter {
-    background-color: lightgrey;
-    width: 500px;
-    height: 100px
-    border: 25px solid green;
-    padding: 25px;
-    margin: 15px;
-    width: 150%;
+.newsletter {
+  float: left;
+  width: 100%;
+  padding: 15px;
 }
 
-prices {
-    background-color: lightgrey;
-    width: 500px;
-    height: 100px
-    border: 25px solid green;
-    padding: 25px;
-    margin: 15px;
-    width: 150%;
-    float: right;
+.prices {
+  float: left;
+  width: 60%;
+  padding: 20px;
 }
 
-figcaption {
+.column {
+  float: right;
+  width: 40%;
+  padding: 25px;
+}
+
+
+/*figcaption {
     text-align: center;
     padding: 1em 0;
-}
+}*/
 
 .sociallinks {
     display: flex;
