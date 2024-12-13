@@ -161,6 +161,12 @@ figcaption {
   height: auto;
 }
 
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
 .sociallinks {
     display: flex;
     gap: 1rem;
@@ -182,6 +188,7 @@ footer {
     width: 20%;
     justify-content: space between;
 }
+
 /* Create three equal columns that float next to each other 
 .column {
   float: left;
