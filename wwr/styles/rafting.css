@@ -179,6 +179,7 @@ footer {
 
 .footer img {
     width: 20%;
+    justify-content: space between;
 }
 /* Create three equal columns that float next to each other 
 .column {
