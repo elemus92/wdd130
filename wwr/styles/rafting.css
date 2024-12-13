@@ -145,12 +145,6 @@ history, h2, adventures {
     padding: 1em 0;
 }
 
-happy_employees {
-   justify-content: space-around;
-   width: 100%;
-   display: block;
-}
-
 .newsletter {
   float: left;
   width: 100%;
@@ -179,6 +173,7 @@ happy_employees {
   float: left;
   width: 33.33%;
   padding: 15px;
+  height: auto;
 }
 
 /* Clear floats after the columns */
