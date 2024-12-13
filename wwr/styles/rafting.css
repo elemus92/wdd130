@@ -173,7 +173,7 @@ history, h2, adventures {
 .sociallinks {
     display: flex;
     gap: 1rem;
-    width: 250px;
+    width: 10%;
     height: 250px;
 }
 
@@ -185,10 +185,6 @@ footer {
     background-color: #242321;
     margin-top: 100px;
     color:#FFFFFF
-}
-
-footer img {
-    justify-content: space-between;
 }
 
 /* Create three equal columns that float next to each other 
