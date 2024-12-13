@@ -148,7 +148,6 @@ history, h2, adventures {
   height: auto;  
 }
 
-
 figcaption {
     text-align: center;
     padding: 1em 0;
@@ -159,13 +158,6 @@ figcaption {
   width: 33.33%;
   padding: 15px;
   height: auto;
-}
-
-/* Clear floats after the columns */
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 .sociallinks {
