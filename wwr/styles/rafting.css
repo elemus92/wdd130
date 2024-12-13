@@ -108,6 +108,13 @@ article p{
     justify-items: center
 }
 
+history, h2, adventures {
+    grid-column: 1 / -1;
+    justify-self: center;
+    padding: 1em 0;
+}
+
+/*trips css*/
 .trips {
   background-color: lightgray;
   width: auto;
@@ -120,13 +127,7 @@ article p{
   display: block;
 }
 
-
-history, h2, adventures {
-    grid-column: 1 / -1;
-    justify-self: center;
-    padding: 1em 0;
-}
-
+/*home css*/
 .newsletter {
   float: left;
   width: 100%;
@@ -153,7 +154,7 @@ figcaption {
     padding: 1em 0;
 }
 /*contact css*/
-.column {
+.happyemployees {
   float: left;
   width: 33.33%;
   padding: 15px;
