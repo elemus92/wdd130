@@ -133,6 +133,14 @@ figcaption {
   margin: 20px;
 }
 
+.column {
+  display: grid;
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 800px;
+}
+
 .sociallinks {
     display: flex;
     gap: 1rem;
