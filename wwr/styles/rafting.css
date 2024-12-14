@@ -142,16 +142,11 @@ figcaption {
 }
 
 /*poll-form*/
-body {
+/*body {
   font-family: Merriweather, Georgia, serif;
   font-size: 1.2em;
   color: #333;
   background: #fff;
-}
-
-header {
-  margin: 0 auto;
-  width: 650px;
 }
 
 h1 {
@@ -159,10 +154,10 @@ h1 {
   font-size: 1.5em;
   color: navy;
   text-align: center;
-}
+}*/
 
 .form {
-  width: 650px;
+  width: 500px;
   margin: 0 auto;
   padding: 1rem;
   border: 1px solid rgb(0 0 0 / 0.1);
