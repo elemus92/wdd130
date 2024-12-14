@@ -194,7 +194,7 @@ figcaption {
 form {
     display: grid;
     width: 50%;
-    height: 50px;
+    height: 20px;
 }
 
 @media screen and (max-width: 600px) {
@@ -217,7 +217,6 @@ form {
     bottom: 100;
     width: 100%;
     background-color: #242321;
-    margin-top: 50px;
     color:#FFFFFF
 }
 
