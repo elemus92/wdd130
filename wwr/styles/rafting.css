@@ -169,6 +169,7 @@ figcaption {
 }
 /*contact css*/
 .column {
+  grid-template-columns: 30%;
   float: left;
   width: 33.33%;
   padding: 15px;
