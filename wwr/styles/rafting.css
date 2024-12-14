@@ -74,7 +74,7 @@ header {
    background-color: #445552;
 }
 
-.header, main, footer {
+.header, main {
     display: grid;
     max-width: auto;
     margin: auto;
