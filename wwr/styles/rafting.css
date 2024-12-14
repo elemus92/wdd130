@@ -141,6 +141,28 @@ figcaption {
   height: 800px;
 }
 
+/*home css*/
+.newsletter {
+  float: left;
+  width: 100%;
+  padding: 15px;
+  height: auto;  
+}
+
+.prices {
+  display: grid;
+  float: left;
+  width: 60%;
+  padding: 20px;
+  height: auto;  
+}
+
+.random {
+  display: grid;  
+  float: right;
+  width: 40%;
+  padding: 25px;
+
 .sociallinks {
     display: flex;
     gap: 1rem;
