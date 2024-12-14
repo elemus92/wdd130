@@ -104,8 +104,8 @@ article p{
     grid-template-columns: repeat(5, 1fr);
     gap: 1rem;
     justify-items: center;
-    width: 40%;
-    height: 40%
+    width: 30%;
+    height: 30%
 }
 
 history, h2, adventures {
