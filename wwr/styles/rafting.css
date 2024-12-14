@@ -57,9 +57,10 @@ main {
     display: block;
 }
 
-.hero>img {
+.hero img {
     display: block;
     width: 100%;
+    height:auto;
 }
 
 .heading1 {
