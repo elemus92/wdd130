@@ -113,6 +113,10 @@ history, h2, adventures {
     padding: 1em 0;
 }
 
+adventures>img {
+    width: 20px;
+}
+
 img {
     width: 150%;
     justify-content: space-evenly;
@@ -134,17 +138,17 @@ figcaption {
 
 /*home css*/
 .newsletter {
-  display: grid;  
+  display: flex;  
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 15px;
   height: auto;  
 }
 
 .prices {
-  display: grid;
+  display: flex;
   float: right;
-  width: 50%;
+  width: 40%;
   padding: 10px;
   height: auto;  
 }
