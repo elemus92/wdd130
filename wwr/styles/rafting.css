@@ -222,6 +222,15 @@ button:hover {
   background-color: darkgreen;
 }
 
+/*trips css*/
+.trips {
+  background-color: lightgray;
+  width: auto;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
 /*home css*/
 .newsletter {
   display: grid;  
