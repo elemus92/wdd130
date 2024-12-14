@@ -184,7 +184,7 @@ figcaption {
 }
 /*contact css*/
 .column {
-  grid-area: 2 / 1 / 2 / 4;
+  display: grid;
   float: left;
   width: 33.33%;
   padding: 15px;
@@ -198,14 +198,14 @@ figcaption {
 }
 
 .sociallinks {
-    display: flex;
+    display: grid;
     gap: 1rem;
     width: 250px;
     height: 250px;
 }
 
 footer {
-    display: flex;
+    display: grid;
     justify-content: space-between;
     align-items: left;
     padding: 1rem;
