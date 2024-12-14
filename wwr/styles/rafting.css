@@ -133,7 +133,7 @@ figcaption {
   margin: 20px;
 }
 
-.column {
+.columns {
   display: grid;
   float: left;
   width: 33.33%;
