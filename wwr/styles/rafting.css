@@ -49,6 +49,7 @@ header {
 }
 
 header, main, footer {
+    display: grid;
     max-width: 1280px;
     margin: auto;
 }
@@ -60,7 +61,6 @@ main {
 .hero img {
     display: block;
     width: 100%;
-    height:auto;
 }
 
 .heading1 {
