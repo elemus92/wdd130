@@ -146,20 +146,6 @@ figcaption {
 }
 
 /*poll-form*/
-/*body {
-  font-family: Merriweather, Georgia, serif;
-  font-size: 1.2em;
-  color: #333;
-  background: #fff;
-}
-
-h1 {
-  margin: 1rem;
-  font-size: 1.5em;
-  color: navy;
-  text-align: center;
-}*/
-
 .form {
   width: 500px;
   margin: 0 auto;
@@ -257,11 +243,11 @@ button:hover {
 .sociallinks {
     display: flex;
     gap: 1rem;
-    width: 100px;
-    height: 100px;
+    width: 10px;
+    height: 10px;
 }
 
-.footer {
+footer {
     position: absolute;
     display: flex;
     justify-content: space-between;
