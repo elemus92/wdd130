@@ -191,6 +191,11 @@ figcaption {
   height: 800px;
 }
 
+form {
+    display: grid;
+    width: 100%;
+}
+
 @media screen and (max-width: 600px) {
   .column.side, .column.middle {
     width: 100%;
