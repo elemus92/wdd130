@@ -108,6 +108,10 @@ article p{
     height: 30%
 }
 
+adventures>img {
+    width: 30px;
+}
+
 history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
