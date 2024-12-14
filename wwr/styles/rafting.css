@@ -221,14 +221,13 @@ button:hover {
 /*home css*/
 .newsletter {
   float: left;
-  width: 400%;
+  width: 50%;
   padding: 15px;
   height: auto;  
 }
 
 .prices {
-  display: grid;
-  float: left;
+  float: right;
   width: 50%;
   padding: 10px;
   height: auto;  
@@ -247,7 +246,7 @@ button:hover {
     height: 10px;
 }*/
 
-footer {
+/*footer {
     position: absolute;
     display: flex;
     justify-content: space-between;
@@ -256,4 +255,4 @@ footer {
     background-color: #242321;
     margin: 1rem auto 0;
     color:#FFFFFF
-}
+}*/
