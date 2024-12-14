@@ -241,12 +241,12 @@ button:hover {
   width: 50%;
   padding: 10px;
 
-table, th, td {
+.table, th, td {
   border: 1px solid;
 }
     
 sociallinks {
-    display: flex;
+    display: block;
     gap: 1rem;
     width: 10px;
     height: 10px;
