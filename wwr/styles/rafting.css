@@ -42,9 +42,9 @@ body {
 }
 
 header {
-	display: grid;
-	grid-template-columns: 200px auto;
-	align-items: center;
+  display: grid;
+  grid-template-columns: 200px auto;
+  align-items: center;
   background-color: #445552;
 }
 
@@ -74,13 +74,13 @@ header {
    background-color: #445552;
 }
 
-header, main, footer {
+.header, main, footer {
     display: grid;
-    max-width: 1280px;
+    max-width: auto;
     margin: auto;
 }
 
-main {
+.main {
     display: block;
 }
 
@@ -97,7 +97,7 @@ main {
     color: #FFFFFF;
 }
 
-article {
+.article {
     background-color: rgba(255, 255, 255, .35);
     position: absolute;
     top: 20rem;
@@ -105,13 +105,13 @@ article {
     color:#FFFFFF;
 }
 
-article img{
+.article img{
     float: right;
     margin: 3rem;
     width: 15rem;
 }
 
-article p{
+.article p{
     font-size: x-large;
     text-align: center;
 }
@@ -135,7 +135,7 @@ article p{
     justify-items: center
 }
 
-history, h2, adventures {
+.history, h2, adventures {
     grid-column: 1 / -1;
     justify-self: center;
     padding: 1em 0;
@@ -204,13 +204,13 @@ figcaption {
     height: 250px;
 }
 
-footer {
-    display: grid;
+.footer {
+    display: flex;
     justify-content: space-between;
     align-items: left;
     padding: 1rem;
     background-color: #242321;
-    margin-top: 100px;
+    margin-bottom: 50px;
     color:#FFFFFF
 }
 
