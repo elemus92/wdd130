@@ -188,7 +188,7 @@ figcaption {
   float: left;
   width: 33.33%;
   padding: 15px;
-  height: auto;
+  height: 800px;
 }
 
 @media screen and (max-width: 600px) {
@@ -204,30 +204,18 @@ figcaption {
     height: 250px;
 }
 
-.footer {
+footer {
     display: flex;
     justify-content: space-between;
     align-items: left;
     padding: 1rem;
     background-color: #242321;
-    margin-bottom: 50px;
+    margin-top: 50px;
     color:#FFFFFF
+    height: 100px;
 }
 
 .footer img {
     width: 20%;
     justify-content: space between;
 }
-
-/* Create three equal columns that float next to each other 
-.column {
-  float: left;
-  width: 33.33%;
-}*/
-
-/* Clear floats after the columns 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}*/
