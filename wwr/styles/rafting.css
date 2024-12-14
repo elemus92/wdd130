@@ -74,7 +74,7 @@ header {
    background-color: #445552;
 }
 
-.header, main, footer {
+.header, main {
     display: grid;
     max-width: auto;
     margin: auto;
@@ -209,7 +209,7 @@ form {
     height: 250px;
 }
 
-footer {
+.footer {
     position: absolute;
     left: 0;
     bottom: 0;
