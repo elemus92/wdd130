@@ -253,11 +253,11 @@ button:hover {
 .sociallinks {
     display: flex;
     gap: 1rem;
-    width: 250px;
-    height: 250px;
+    width: 100px;
+    height: 100px;
 }
 
-footer {
+.footer {
     position: absolute;
     display: flex;
     justify-content: space-between;
