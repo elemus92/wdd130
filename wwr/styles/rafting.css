@@ -205,10 +205,10 @@ figcaption {
 }
 
 footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: left;
-    padding: 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: #242321;
     margin-top: 50px;
     color:#FFFFFF
