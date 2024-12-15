@@ -258,7 +258,7 @@ button:hover {
 }
 
 offers>img {
-  width: 20%;
+  width: 20px;
 }	
 
 .prices {
@@ -267,6 +267,9 @@ offers>img {
   width: 50%;
   padding: 10px;
   height: auto;  
+}	
+ 
+table {	
   border: 1px solid;
 }
 
