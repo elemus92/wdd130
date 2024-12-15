@@ -231,17 +231,13 @@ button:hover {
 .offers {
   display: grid;
   float: right;
-  width: 50%;
+  width: 100%;
   padding: 10px;
   height: auto;  
   background-color: lightgray;
   border: 15px solid green;
   margin: 20px;
 }
-
-offers img {
-  width: 10%;
-}	
 
 .prices {
   display: grid;
