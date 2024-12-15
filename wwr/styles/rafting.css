@@ -245,15 +245,23 @@ button:hover {
 }
 
 /*home css*/
-.newsletter {
+.offers {
   display: grid;  
   float: left;
-  width: 50%;
+  width: 100%;
   padding: 15px;
   height: auto;  
 }
 
 .prices {
+  display: grid;
+  float: right;
+  width: 50%;
+  padding: 10px;
+  height: auto;  
+}
+
+.contact {
   display: grid;
   float: right;
   width: 50%;
