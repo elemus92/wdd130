@@ -239,7 +239,7 @@ button:hover {
 .prices {
   display: grid;
   float: left;
-  width: 40%;
+  width: 50%;
   padding: 10px;
   height: auto;  
 }	
@@ -251,7 +251,7 @@ table {
 .contact {
   display: grid;
   float: right;
-  width: 40%;
+  width: 50%;
   padding: 10px;
   height: auto;  
 }
