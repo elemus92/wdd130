@@ -231,7 +231,7 @@ button:hover {
 .offers {
   display: flex;
   float: right;
-  width: 50%;
+  width: 100%;
   padding: 10px;
   height: auto;  
 }
