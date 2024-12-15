@@ -145,23 +145,6 @@ figcaption {
   height: 800px;
 }
 
-/*home css*/
-.newsletter {
-  display: flex;  
-  float: left;
-  width: 40%;
-  padding: 15px;
-  height: auto;  
-}
-
-.prices {
-  display: flex;
-  float: right;
-  width: 40%;
-  padding: 10px;
-  height: auto;  
-}
-
 /*poll-form*/
 .form {
   width: 100%;
@@ -248,17 +231,16 @@ button:hover {
 .offers {
   display: grid;  
   float: left;
-  width: 100%;
+  width: auto;
   padding: 15px;
   height: auto;  
   background-color: lightgray;
   border: 15px solid green;
   margin: 20px;
 }
-}
 
-offers>img {
-  width: 20px;
+.offers>img {
+  width: 10px;
 }	
 
 .prices {
