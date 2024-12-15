@@ -238,8 +238,8 @@ button:hover {
 
 .prices {
   display: grid;
-  float: right;
-  width: 50%;
+  float: left;
+  width: 40%;
   padding: 10px;
   height: auto;  
 }	
@@ -250,8 +250,8 @@ table {
 
 .contact {
   display: grid;
-  float: left;
-  width: 50%;
+  float: right;
+  width: 40%;
   padding: 10px;
   height: auto;  
 }
