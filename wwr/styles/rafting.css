@@ -253,6 +253,10 @@ button:hover {
   height: auto;  
 }
 
+offers>img {
+  width: 20%;
+}	
+
 .prices {
   display: grid;
   float: right;
