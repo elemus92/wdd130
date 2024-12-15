@@ -234,9 +234,6 @@ button:hover {
   width: 100%;
   padding: 10px;
   height: auto;  
-  background-color: lightgray;
-  border: 15px solid green;
-  margin: 20px;
 }
 
 .prices {
