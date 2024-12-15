@@ -230,7 +230,7 @@ button:hover {
 /*home css*/
 .offers {
   display: flex;
-  float: right;
+  float: auto;
   width: 100%;
   padding: 10px;
   height: auto;  
@@ -238,8 +238,8 @@ button:hover {
 
 .prices {
   display: flex;
-  float: left;
-  width: 50%;
+  float: grid;
+  width: 100%;
   padding: 10px;
   height: auto;  
 }	
@@ -249,9 +249,9 @@ table {
 }
 
 .contact {
-  display: flex;
+  display: grid;
   float: right;
-  width: 50%;
+  width: 100%;
   padding: 10px;
   height: auto;  
 }
