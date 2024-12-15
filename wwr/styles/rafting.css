@@ -251,6 +251,10 @@ button:hover {
   width: 100%;
   padding: 15px;
   height: auto;  
+  background-color: lightgray;
+  border: 15px solid green;
+  margin: 20px;
+}
 }
 
 offers>img {
@@ -263,6 +267,7 @@ offers>img {
   width: 50%;
   padding: 10px;
   height: auto;  
+  border: 1px solid;
 }
 
 .contact {
