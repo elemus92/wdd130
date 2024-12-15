@@ -140,7 +140,7 @@ figcaption {
 .columns {
   display: grid;
   float: left;
-  width: 33.33%;
+  width: 30%;
   padding: 10px;
   height: 800px;
 }
@@ -164,7 +164,7 @@ figcaption {
 
 /*poll-form*/
 .form {
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
   padding: 1rem;
   border: 1px solid rgb(0 0 0 / 0.1);
